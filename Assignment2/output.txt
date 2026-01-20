@@ -1,0 +1,5 @@
+
+Name: Vaishnavi
+Age: 20
+Skills: JavaScript, Node.js, Git
+Student: true
