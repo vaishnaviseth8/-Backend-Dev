@@ -1,7 +1,0 @@
-
-Log File Analysis Report
--------------------------
-Total Lines   : 0
-ERROR Count   : 0
-WARNING Count : 0
-INFO Count    : 0
